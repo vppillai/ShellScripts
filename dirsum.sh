@@ -13,7 +13,6 @@
 #
 #           	  To change the digest computation command, change the "DIGEST" variable.
 #
-#
 #                 Possible (tested) commands are : md5sum, sha512sum, sha256sum, sha1sum, shasum, sha384sum, sha224sum
 #########################################################################################################################
 
